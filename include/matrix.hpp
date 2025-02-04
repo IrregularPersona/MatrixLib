@@ -6,9 +6,6 @@
 #include <iostream>
 #include <stdexcept>
 #include <algorithm>
-#include <string>
-#include <sstream>
-#include "numeric_types.hpp"
 
 #define INT_DATATYPE int64_t
 #define FLOAT_DATATYPE float
